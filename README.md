@@ -1,6 +1,6 @@
 # SoulGoldFR
 
-Traduction française d'un hack ROM Pokémon (base Emerald, "Hide & Seek") — distribuée sous forme de **patch xdelta**, pas de ROM complète (pour rester dans les clous côté droits d'auteur : Nintendo possède le jeu de base, seules les modifications appliquées par-dessus sont partagées ici).
+Traduction française d'un hack ROM Pokémon base Emerald reprenant l'histoire de Heart Gold / Soul Silver (région de Johto) — distribuée sous forme de **patch xdelta**, pas de ROM complète (pour rester dans les clous côté droits d'auteur : Nintendo possède le jeu de base, seules les modifications appliquées par-dessus sont partagées ici).
 
 Hack original : [pokemonsoulgold.com](https://pokemonsoulgold.com/)
 
